@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="cloud-provider-payment8002" />
+        <module name="cloud-api-common" />
+        <module name="cloud-consumer-order-feign8000" />
+        <module name="cloud-provider-payment8001" />
+        <module name="cloud-alibaba-config-nacos-client3377" />
+        <module name="cloud-alibaba-sentinel-service8401" />
+        <module name="cloud-alibaba-consume-order9000" />
+        <module name="cloud-gateway9527" />
+        <module name="cloud-alibaba-sentinel-gateway9528" />
+        <module name="cloud-seata-order-service2001" />
+        <module name="cloud-seata-account-service2003" />
+        <module name="cloud-seata-storage-service2002" />
+        <module name="cloud-alibaba-provider-payment9001" />
+        <module name="cloud-consumer-order8000" />
+        <module name="mybatis_generation2024" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>

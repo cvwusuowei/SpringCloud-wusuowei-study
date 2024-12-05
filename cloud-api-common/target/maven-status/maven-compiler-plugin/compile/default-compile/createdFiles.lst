@@ -1,0 +1,4 @@
+com\wusuowei\cloud\enumerate\ReturnCodeEnum.class
+com\wusuowei\cloud\utils\BeanCopyUtil.class
+com\wusuowei\cloud\utils\Result.class
+com\wusuowei\cloud\function\BeanCopyCallBack.class
